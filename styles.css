@@ -69,16 +69,17 @@ p {
   margin-left: 30px;
 }
 
+
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  top: 300px
+  left: 50%x;
+  top:40%;
 }
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 30%;
+  top: 5%;
 }
 
 .btn {
