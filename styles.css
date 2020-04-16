@@ -72,14 +72,14 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left: 50%x;
-  top:40%;
+  left: 300px;
+  top:300px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 30%;
-  top: 5%;
+  right: 300px;
+  top: 50px;
 }
 
 .btn {
